@@ -55,36 +55,18 @@ class ViewController: UIViewController {
     }
     
     private func animateLogo() {
-        let shrinkSize = CGRect(x: -10, y: -10, width: self.view.frame.width + 20, height: self.view.frame.height + 20)
-        
-        let bigSize: CGFloat = 5000
-        let smallSize: CGFloat = 400
-        
 
-        UIView.animate(withDuration: 6.0,
-                       delay: 0.0,
+        let bigSize: CGFloat = 5000
+
+        UIView.animate(withDuration: 3.0,
+                       delay: 3.0,
                        options: .curveEaseInOut,
-                       animations: { self.expandLogo(expansion: smallSize)},
-                       completion: { _ in
-                        UIView.animate(withDuration: 0.4,
-                                       delay: 0.2,
-                                       usingSpringWithDamping: 0.8,
-                                       initialSpringVelocity: 5,
-                                       options: .curveEaseOut,
-                                       animations: { self.logo.bounds = shrinkSize },
-                                       completion: { _ in
-                                        UIView.animate(withDuration: 1.4,
-                                                       delay: 0.0,
-                                                       options: .curveEaseOut,
-                                                       animations: { self.expandLogo(expansion: bigSize) },
-                                                       completion: nil )
-                        })
-        })
+                       animations: { self.expandLogo(expansion: bigSize)},
+                       completion: nil )
     }
     
     
     private func expandLogo(expansion: CGFloat) {
-
         logo.frame = CGRect(x: expansion * -1,
                                    y: expansion * -1,
                                    width: self.view.frame.width + (expansion * 2),
