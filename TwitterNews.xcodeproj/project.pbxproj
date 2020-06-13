@@ -16,6 +16,7 @@
 		9331261824859EBC00F45370 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9331261724859EBC00F45370 /* Constants.swift */; };
 		935CC15624945F6A00CF1E06 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 935CC15524945F6A00CF1E06 /* LICENSE */; };
 		935CC15824945F6E00CF1E06 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 935CC15724945F6E00CF1E06 /* README.md */; };
+		9395DD0E2494656E00504BA2 /* TwitterShots.png in Resources */ = {isa = PBXBuildFile; fileRef = 9395DD0D2494656E00504BA2 /* TwitterShots.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		9331261724859EBC00F45370 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		935CC15524945F6A00CF1E06 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		935CC15724945F6E00CF1E06 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		9395DD0D2494656E00504BA2 /* TwitterShots.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TwitterShots.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,6 +122,7 @@
 		935CC15424945F5200CF1E06 /* GitHub-Images */ = {
 			isa = PBXGroup;
 			children = (
+				9395DD0D2494656E00504BA2 /* TwitterShots.png */,
 			);
 			path = "GitHub-Images";
 			sourceTree = "<group>";
@@ -187,6 +190,7 @@
 				935CC15824945F6E00CF1E06 /* README.md in Resources */,
 				935CC15624945F6A00CF1E06 /* LICENSE in Resources */,
 				93312606248450CC00F45370 /* Assets.xcassets in Resources */,
+				9395DD0E2494656E00504BA2 /* TwitterShots.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

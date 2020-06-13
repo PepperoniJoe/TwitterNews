@@ -1,11 +1,7 @@
 # TwitterNews
 An iOS app for reading Twitter news. Demo of expanding Twitter logo. 
 
-<img src="GitHub-Images/ScreenShot.png" width="300">
-
-
-*Example  (shown in Light and Dark modes)* \
-<img src="GitHub-Images/LightDark.png" width="600">
+<img src="GitHub-Images/TwitterShots.png" width="900">
 
 **Inspired By:** \
 
