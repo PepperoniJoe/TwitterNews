@@ -60,7 +60,7 @@ class ViewController: UIViewController {
 
         UIView.animate(withDuration: 3.0,
                        delay: 3.0,
-                       options: .curveEaseInOut,
+                       options: .curveLinear,
                        animations: { self.expandLogo(expansion: bigSize)},
                        completion: nil )
     }
