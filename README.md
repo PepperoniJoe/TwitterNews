@@ -10,7 +10,8 @@ An iOS app for reading Twitter news. Demo of expanding Twitter logo.
 
 <img src="GitHub-Images/TwitterShots.png" width="900">
 
-**Inspired By Other Twitter Splash apps:** \
+**Inspired By Other Twitter Splash app projects:** \
+https://github.com/soapyigu/Swift-30-Projects/tree/master/Project%2013%20-%20TwitterBird \
 https://github.com/PiXeL16/RevealingSplashView \
 https://github.com/jkosoy/TwitterSplashDemo \
 https://github.com/rounak/TwitterBirdAnimation/
