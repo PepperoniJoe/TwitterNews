@@ -1,5 +1,9 @@
 # TwitterNews
 An iOS app for reading Twitter news. Demo of expanding Twitter logo.
+[![Language](https://img.shields.io/badge/swift-5.0-orange.svg)](https://developer.apple.com/swift)
+[Platform](http://img.shields.io/badge/platform-iOS%20%7C%20macOS%20%7C%20tvOS%20%7C%20watchOS-lightgrey.svg?style=flat)](https://developer.apple.com/resources/)
+[Issues](https://img.shields.io/github/issues/bizz84/SwiftyStoreKit.svg?style=flat)](https://github.com/PepperoniJoe/TwitterNews/issues)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://mit-license.org)
 
 <img src="GitHub-Images/TwitterNews.gif" width="300">
 
