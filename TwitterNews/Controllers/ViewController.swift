@@ -56,12 +56,10 @@ class ViewController: UIViewController {
     
     private func animateLogo() {
 
-        let bigSize: CGFloat = 5000
-
-        UIView.animate(withDuration: 3.0,
+        UIView.animate(withDuration: 1.0,
                        delay: 3.0,
                        options: .curveLinear,
-                       animations: { self.expandLogo(expansion: bigSize)},
+                       animations: { self.expandLogo(expansion: 5000)},
                        completion: nil )
     }
     
