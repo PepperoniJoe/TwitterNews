@@ -21,7 +21,8 @@ https://github.com/jkosoy/TwitterSplashDemo \
 https://github.com/rounak/TwitterBirdAnimation/
 
 **Technical Info:** \
-Xcode 11  project written in Swift 5 for iOS
+Xcode 11  project written in Swift 5 for iOS\
+Webview, UIView.animate, animations
 
 **See Also:** \
 [Quickies - a variety of example iOS apps](https://github.com/PepperoniJoe/Quickies)\
